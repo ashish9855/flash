@@ -1,0 +1,26 @@
+ [
+  {
+  "id": 1,
+  "name": "001100",
+  "description": "Electric Scooter",
+  "latitude": 52.529103,
+  "longitude": 13.416255,
+  "batteryLevel": 11,
+  "timestamp": "2019-03-10T11:15:22Z",
+  "price": 20,
+  "priceTime": 60,
+  "currency": "€"
+  },
+  {
+  "id": 2,
+  "name": "001100",
+  "description": "Electric Scooter",
+  "latitude": 52.529103,
+  "longitude": 13.416255,
+  "batteryLevel": 11,
+  "timestamp": "2019-03-10T11:15:22Z",
+  "price": 20,
+  "priceTime": 60,
+  "currency": null
+  }
+  ]
